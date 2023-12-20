@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ÖppenBók</string>
+    <string name="importing_book">Importing book</string>
+    <string name="tap_anywhere">Tap anywhere to open an ePub book</string>
+    <string name="open_new_book">Open new book</string>
+    <string name="about">About</string>
+    <string name="open_new_dialog_title">Open new ePub book</string>
+    <string name="open_new_dialog_content">Are you sure you want to open a new book?</string>
+    <string name="open">Open</string>
+    <string name="cancel">Cancel</string>
+    <string name="copyright">Copyright © 2021 Öppenlab</string>
+    <string name="about_body">ÖppenBók: ePub book reader from Öppenlab</string>
+    <string name="page_curl_attribution">The page turning effect is derived from PlayLikeCurl by Karan Kalsi which is released under the MIT License</string>
+</resources>

@@ -1,0 +1,16 @@
+# OppenBok 0.0.6.alpha
+
+Download:
+=> oppen_oppenbok_release_0_0_6_alpha.apk oppen_oppenbok_release_0_0_6_alpha.apk
+
+Signing Cert SHA256:
+```
+B1:EB:49:C6:0C:C4:BC:BC:77:F6:47:EE:49:C5:5A:C1
+2A:71:27:B8:87:85:52:94:9D:BB:45:71:BC:3C:67:EF
+```
+
+.apk file MD5 checksum:
+```
+63015ED88E654CF602FA10CF92D5107E
+```
+
